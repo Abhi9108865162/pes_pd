@@ -612,6 +612,21 @@
 
 - ### Lab steps to convert magic layout to std cell LEF
 
+![Screenshot from 2023-09-17 23-32-03](https://github.com/Abhi9108865162/pes_pd/assets/141741065/af954ab5-00c5-41fb-bb3e-09477c7a5f3f)
+![Screenshot from 2023-09-17 23-33-22](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bb3280f5-1be4-4e7e-8c99-d233cea42e3a)
+![Screenshot from 2023-09-17 23-33-32](https://github.com/Abhi9108865162/pes_pd/assets/141741065/223e81d3-6c8d-4486-b03d-5d74b1a0aa0a)
+![Screenshot from 2023-09-17 23-33-38](https://github.com/Abhi9108865162/pes_pd/assets/141741065/59881b06-9b32-46e1-a9dd-fd028e673d7e)
+![Screenshot from 2023-09-17 23-34-11](https://github.com/Abhi9108865162/pes_pd/assets/141741065/03a9f0a9-eda2-4d76-aa78-5509c4ea59ae)
+![VirtualBox_PES_physical_design_17_09_2023_23_41_59](https://github.com/Abhi9108865162/pes_pd/assets/141741065/ae1d8404-96b5-406a-a007-495739dc39b1)
+![VirtualBox_PES_physical_design_17_09_2023_23_44_19](https://github.com/Abhi9108865162/pes_pd/assets/141741065/31e4b653-8775-4a24-8551-d150f0dccf6d)
+![VirtualBox_PES_physical_design_17_09_2023_23_42_54](https://github.com/Abhi9108865162/pes_pd/assets/141741065/29f5a5a2-1a23-4c64-956a-f3079d8f066b)
+![VirtualBox_PES_physical_design_17_09_2023_23_45_33](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bdb24f5e-428b-461e-a436-67d7415ae0cc)
+
+
+
+
+
+
 - ### Introduction to timing libs and steps to include new cell in synthesis
 
 
