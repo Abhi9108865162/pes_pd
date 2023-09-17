@@ -630,7 +630,31 @@
 - ### Introduction to timing libs and steps to include new cell in synthesis
 
 
+![VirtualBox_PES_physical_design_17_09_2023_23_52_55](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bb2f3f06-6696-49b7-ac6c-93395b4cfc4e)
+![VirtualBox_PES_physical_design_17_09_2023_23_54_36](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1d5c4b53-c525-4aef-9455-97b61c9be0ae)
+![VirtualBox_PES_physical_design_17_09_2023_23_54_11](https://github.com/Abhi9108865162/pes_pd/assets/141741065/15625117-2f27-4543-9ae1-f9feee5a3c8c)
+![VirtualBox_PES_physical_design_17_09_2023_23_57_58](https://github.com/Abhi9108865162/pes_pd/assets/141741065/0d1c4ecd-3cde-4537-ad5b-a6f7049be9a2)
+![VirtualBox_PES_physical_design_17_09_2023_23_58_34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8c76ed3c-7008-464d-9593-9f0893d993a8)
+![VirtualBox_PES_physical_design_17_09_2023_23_59_12](https://github.com/Abhi9108865162/pes_pd/assets/141741065/7da92de7-5bae-4d49-970d-6328b18bafdb)
+![VirtualBox_PES_physical_design_17_09_2023_23_59_27](https://github.com/Abhi9108865162/pes_pd/assets/141741065/73f1efa0-3368-427d-9b47-aa7aa5997643)
+![VirtualBox_PES_physical_design_18_09_2023_00_02_00](https://github.com/Abhi9108865162/pes_pd/assets/141741065/28ef69d3-1cbd-46a0-925c-4426a6c94cf0)
+![VirtualBox_PES_physical_design_18_09_2023_00_02_38](https://github.com/Abhi9108865162/pes_pd/assets/141741065/46b80777-37ce-432f-9488-a61088ec1609)
+![VirtualBox_PES_physical_design_18_09_2023_00_03_35](https://github.com/Abhi9108865162/pes_pd/assets/141741065/63b9d96a-ce4a-47fb-97a9-a9b6f2b8a2bb)
+![VirtualBox_PES_physical_design_18_09_2023_00_16_12](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3dd791bd-b3a2-41a2-806a-747911d61aa4)
+![VirtualBox_PES_physical_design_18_09_2023_00_16_55](https://github.com/Abhi9108865162/pes_pd/assets/141741065/14adb1ff-d39e-4a64-9759-8a4b53b84f47)
+![VirtualBox_PES_physical_design_18_09_2023_00_21_23](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8e2680a2-a4d3-4437-b537-a0fba190c3af)
+![VirtualBox_PES_physical_design_18_09_2023_00_24_28](https://github.com/Abhi9108865162/pes_pd/assets/141741065/0a8ec79f-7080-4845-96a0-a3441b34eb59)
+
+
+
+
 - ### Introduction to delay tables
+
+
+
+
+
+
 
 
 - ### Delay table usage Part 1
