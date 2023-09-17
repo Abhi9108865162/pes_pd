@@ -514,22 +514,79 @@
 
 ## 3. Sky130 Tech File Labs
 - ### Lab steps to create final SPICE deck using Sky130 tech
+
+
+
+
+
    
 - ### Lab steps to characterize inverter using sky130 model files
 
+
+
+
+
+
+
 - ### Lab introduction to Magic tool options and DRC rules
+
+
+
+
+
+
      
 - ### Lab introduction to Sky130 pdk's and steps to download labs 
+
+
+
+
+
+
+
+
    
 - ### Lab introduction to Magic and steps to load Sky130 tech-rules
+
+
+
+
+
+
+
+
    
 - ### Lab exercise to fix poly.9 error in Sky130 tech-file 
 
+
+
+
+
+
+
+
 - ### Lab exercise to implement poly resistor spacing to diff and tap 
+
+
+
+
+
+
    
 - ### Lab challenge exercise to describe DRC error as geometrical construct
+
+
+
+
+
+
    
 - ### Lab challenge to find missing or incorrect rules and fix them
+
+
+
+
+
 
 </details>
 
@@ -540,12 +597,50 @@
 
 
 ## 1. Timing modelling using delay tables
-    -
+- ### Lab steps to convert grid info to track info 
+
+
+- ### Lab steps to convert magic layout to std cell LEF
+
+- ### Introduction to timing libs and steps to include new cell in synthesis
+
+
+- ### Introduction to delay tables
+
+
+- ### Delay table usage Part 1
+
+
+- ### Delay table usage Part 2
+
+
+- ### Lab steps to configure synthesis settings to fix slack and include vsdinv 
+
+
+
 
 ## 2. Timing analysis with ideal clocks using openSTA
-    -
 
-## 3. Clock tree synthesis TritonCTS and signal integrity
+- ### Setup timing analysis and introduction to flip-flop setup time 
+
+
+- ### Introduction to clock jitter and uncertainty
+
+
+- ### Lab steps to configure OpenSTA for post-synth timing analysis 
+
+
+
+- ### Lab steps to optimize synthesis to reduce setup violations
+
+
+
+
+- ### Lab steps to do basic timing ECO 
+
+
+
+3. Clock tree synthesis TritonCTS and signal integrity
 - ### Clock tree routing and buffering using H-Tree algorithm
 
 - ### Crosstalk and clock net shielding
