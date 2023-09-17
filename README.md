@@ -597,7 +597,17 @@
 
 
 ## 1. Timing modelling using delay tables
-- ### Lab steps to convert grid info to track info 
+
+
+- ### Lab steps to convert grid info to track info
+
+  
+![VirtualBox_PES_physical_design_17_09_2023_20_01_54](https://github.com/Abhi9108865162/pes_pd/assets/141741065/5a5a8af9-e0b7-42c5-a45d-cdd154ddd0c0)
+![VirtualBox_PES_physical_design_17_09_2023_22_42_41](https://github.com/Abhi9108865162/pes_pd/assets/141741065/a9d6d8f7-f90b-44ab-b794-a90d6eb9921d)
+![VirtualBox_PES_physical_design_17_09_2023_22_42_28](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1106d970-ab3a-4795-9d30-32fe00f1186b)
+![VirtualBox_PES_physical_design_17_09_2023_22_49_08](https://github.com/Abhi9108865162/pes_pd/assets/141741065/53d6a452-aedf-4247-9352-f856865ec676)
+![VirtualBox_PES_physical_design_17_09_2023_22_53_44](https://github.com/Abhi9108865162/pes_pd/assets/141741065/44a6a788-ef33-43f7-805f-de33f50a1482)
+![VirtualBox_PES_physical_design_17_09_2023_22_54_17](https://github.com/Abhi9108865162/pes_pd/assets/141741065/0932cecd-9506-4e47-88ba-328d9dc0d7a9)
 
 
 - ### Lab steps to convert magic layout to std cell LEF
