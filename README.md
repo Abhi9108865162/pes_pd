@@ -500,11 +500,15 @@
 
 
 - ### Lab steps to create std cell layout and extract spice netlist 
-   
 
 
+![Screenshot from 2023-09-17 20-08-33](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1e0171b7-0faf-4a66-8e8f-7919f4529c67)
+![Screenshot from 2023-09-17 20-26-04](https://github.com/Abhi9108865162/pes_pd/assets/141741065/de0ff389-0de6-481e-822d-749cebb5ceb3)
+![Screenshot from 2023-09-17 20-49-04](https://github.com/Abhi9108865162/pes_pd/assets/141741065/61d94925-cb81-4ba7-8275-eb98de7e58ba)
+![Screenshot from 2023-09-17 20-50-24](https://github.com/Abhi9108865162/pes_pd/assets/141741065/b05925e9-474c-459a-8366-02a72580d369)
+![Screenshot from 2023-09-17 20-50-47](https://github.com/Abhi9108865162/pes_pd/assets/141741065/c0884ec3-a442-44fb-a01b-4b78c20aafad)
+![Screenshot from 2023-09-17 20-51-04](https://github.com/Abhi9108865162/pes_pd/assets/141741065/001bcdca-cca3-427e-9f99-76f26fa24346)
 
-    
    
   
 
