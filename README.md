@@ -651,6 +651,11 @@
 - ### Introduction to delay tables
 
 
+![Screenshot from 2023-09-18 00-35-08](https://github.com/Abhi9108865162/pes_pd/assets/141741065/db1430a3-5623-4aa3-815f-59f2f73f40a5)
+![Screenshot from 2023-09-18 00-40-04](https://github.com/Abhi9108865162/pes_pd/assets/141741065/06d5477f-81c3-4aae-8f0a-9d53e63f6fb2)
+![Screenshot from 2023-09-18 00-45-16](https://github.com/Abhi9108865162/pes_pd/assets/141741065/37334b51-77ab-40c9-b8a0-8f2cf3afb602)
+
+
 
 
 
@@ -658,6 +663,18 @@
 
 
 - ### Delay table usage Part 1
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - ### Delay table usage Part 2
