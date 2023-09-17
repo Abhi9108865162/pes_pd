@@ -665,19 +665,27 @@
 - ### Delay table usage Part 1
 
 
-
-
-
-
-
-
-
-
+![Screenshot from 2023-09-18 00-51-36](https://github.com/Abhi9108865162/pes_pd/assets/141741065/702ff17a-d21b-41a4-8ba0-49a70c74bb0b)
+![Screenshot from 2023-09-18 00-59-08](https://github.com/Abhi9108865162/pes_pd/assets/141741065/26f2ef34-db65-4593-bbcc-4aa7f3d1dab4)
 
 
 
 
 - ### Delay table usage Part 2
+
+
+![Screenshot from 2023-09-18 00-57-09](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1352813d-74f1-4177-8a7f-b6500ef732ea)
+![Screenshot from 2023-09-18 01-02-42](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3c0e7102-f43b-409d-9948-89a3bd72bbd7)
+![Screenshot from 2023-09-18 01-15-45](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f5d5a798-623b-42ba-9c5e-b98b04ca812b)
+![Screenshot from 2023-09-18 01-10-34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/7358ef4c-190b-46a8-a2af-fc18de326df0)
+![Screenshot from 2023-09-18 01-12-03](https://github.com/Abhi9108865162/pes_pd/assets/141741065/c819fe9c-d50c-4e28-9aad-9aac7cfda2f4)
+
+
+
+
+
+
+
 
 
 - ### Lab steps to configure synthesis settings to fix slack and include vsdinv 
