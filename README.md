@@ -733,16 +733,17 @@
 ![Screenshot from 2023-09-18 12-58-30](https://github.com/Abhi9108865162/pes_pd/assets/141741065/56d5d21b-219c-4de3-8493-b9b00f6a2829)
 
 
-
-
-
-
-
-
-
-
-
 - ### Lab steps to configure OpenSTA for post-synth timing analysis 
+
+
+
+
+
+
+
+
+
+
 
 
 
