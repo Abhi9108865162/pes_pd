@@ -770,13 +770,24 @@
 ![Screenshot from 2023-09-18 17-22-34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3a2fc89f-d640-481c-b99e-cdee45885352)
 
 
-
-
-
-
 - ### Crosstalk and clock net shielding
 
+
+![Screenshot from 2023-09-18 17-38-20](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3bbd0cec-f1e4-4758-903d-6e8c6197a883)
+![Screenshot from 2023-09-18 17-38-36](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f67c053d-3140-4928-a964-38f14b57681b)
+![Screenshot from 2023-09-18 17-41-24](https://github.com/Abhi9108865162/pes_pd/assets/141741065/c3e25a3a-2d7a-4f96-8db2-4ed44ef0ae24)
+![Screenshot from 2023-09-18 17-42-45](https://github.com/Abhi9108865162/pes_pd/assets/141741065/30c848e5-e699-4105-9f49-8348f27cc45e)
+![Screenshot from 2023-09-18 17-43-19](https://github.com/Abhi9108865162/pes_pd/assets/141741065/dfec67f7-29b4-4b77-a871-8197a8528b06)
+![Screenshot from 2023-09-18 17-43-19](https://github.com/Abhi9108865162/pes_pd/assets/141741065/6b78110c-acbd-4de2-98f3-a25d76a9e5fa)
+![Screenshot from 2023-09-18 17-46-40](https://github.com/Abhi9108865162/pes_pd/assets/141741065/d82fd2d4-e72d-4407-91e4-42c5cb8dc0c1)
+
+
 - ### Lab steps to run CTS using TritonCTS
+
+
+
+
+
 
 - ### Lab steps to verify CTS runs 
 
