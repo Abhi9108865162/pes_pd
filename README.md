@@ -1,4 +1,4 @@
-
+![Screenshot from 2023-09-18 22-41-52](https://github.com/Abhi9108865162/pes_pd/assets/141741065/fbcff013-db0d-4ad9-b89c-707129aaf4c6)
 
 <details>
     
@@ -864,6 +864,30 @@
 
 
 - ### Design Rule Check
+
+![Screenshot from 2023-09-18 22-38-06](https://github.com/Abhi9108865162/pes_pd/assets/141741065/d0faed40-a257-431c-80cc-4b6a544b165b)
+![Screenshot from 2023-09-18 22-39-13](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3f263508-1422-420f-a4a8-d307322609f7)
+![Screenshot from 2023-09-18 22-40-58](https://github.com/Abhi9108865162/pes_pd/assets/141741065/0dce9e39-5873-4bf1-8b4d-5205a039b4e0)
+![Screenshot from 2023-09-18 22-41-52](https://github.com/Abhi9108865162/pes_pd/assets/141741065/75807d11-6379-4f83-9070-efaacb207799)
+![Screenshot from 2023-09-18 22-43-29](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bf5f60ea-30e7-4d92-ae9e-2fa20ce482b0)
+![Screenshot from 2023-09-18 22-44-24](https://github.com/Abhi9108865162/pes_pd/assets/141741065/dcece0bd-6359-4eab-8d34-2e7bff7f6017)
+![Screenshot from 2023-09-18 22-45-08](https://github.com/Abhi9108865162/pes_pd/assets/141741065/df975867-e5b2-4a59-ac58-24e19bec6065)
+![Screenshot from 2023-09-18 22-46-21](https://github.com/Abhi9108865162/pes_pd/assets/141741065/66a432de-a097-4e07-84f1-736c04e90ca4)
+![Screenshot from 2023-09-18 22-46-59](https://github.com/Abhi9108865162/pes_pd/assets/141741065/fd6d7671-1284-45ab-91e5-eb628bf54a7e)
+![Screenshot from 2023-09-18 22-47-22](https://github.com/Abhi9108865162/pes_pd/assets/141741065/b16e767d-0889-4269-a793-c9de210398cd)
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 ## 2. Power Distribution Network and routing
 - ### Lab steps to build power distribution network
