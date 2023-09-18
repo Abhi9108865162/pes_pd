@@ -852,7 +852,14 @@
   
 - ### LeeÂs Algorithm conclusion
 
-
+![Screenshot from 2023-09-18 22-19-57](https://github.com/Abhi9108865162/pes_pd/assets/141741065/d1a1ec2b-f60f-4287-9368-d1277399669f)
+![Screenshot from 2023-09-18 22-27-14](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1a1673d7-151a-4d7a-b34c-326c1b09b13e)
+![Screenshot from 2023-09-18 22-27-32](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f7a330cb-3137-4156-bdb0-87e1e7d83883)
+![Screenshot from 2023-09-18 22-29-44](https://github.com/Abhi9108865162/pes_pd/assets/141741065/e02f4889-e40c-4694-afda-884ebdae97c9)
+![Screenshot from 2023-09-18 22-29-52](https://github.com/Abhi9108865162/pes_pd/assets/141741065/155406f0-26a4-4f85-8e55-bc859e46699b)
+![Screenshot from 2023-09-18 22-29-57](https://github.com/Abhi9108865162/pes_pd/assets/141741065/79baccd5-09b8-4e92-9793-7db69cfa1560)
+![Screenshot from 2023-09-18 22-31-09](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8d24e609-d199-42fe-bcee-b1cf874e3ffa)
+![Screenshot from 2023-09-18 22-32-08](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bc5849d8-878b-400e-ada5-c1b4861f8d18)
 
 
 
