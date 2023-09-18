@@ -721,17 +721,25 @@
 ![Screenshot from 2023-09-18 12-35-50](https://github.com/Abhi9108865162/pes_pd/assets/141741065/6842645f-92f4-446e-9a68-1bd34d739255)
 
 
-
-
-
-
-
-
-
-
-
-
 - ### Introduction to clock jitter and uncertainty
+
+![Screenshot from 2023-09-18 12-53-10](https://github.com/Abhi9108865162/pes_pd/assets/141741065/568ce802-7749-4fd0-a01c-7209fffd4ef6)
+![Screenshot from 2023-09-18 12-53-59](https://github.com/Abhi9108865162/pes_pd/assets/141741065/ae9a9086-9bd3-4526-9212-3956aefda410)
+![Screenshot from 2023-09-18 12-54-31](https://github.com/Abhi9108865162/pes_pd/assets/141741065/08838a24-cc9d-434e-9b55-a25134e6e9d6)
+![Screenshot from 2023-09-18 12-54-58](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1276f920-214f-4d9e-a20a-927ec1ff59aa)
+![Screenshot from 2023-09-18 12-55-44](https://github.com/Abhi9108865162/pes_pd/assets/141741065/b9b4a519-f1f7-45fe-bdb0-e9607b6b19f4)
+![Screenshot from 2023-09-18 12-56-29](https://github.com/Abhi9108865162/pes_pd/assets/141741065/4eb3d6dd-3b8e-4a3f-8085-c1c21c394a54)
+![Screenshot from 2023-09-18 12-57-47](https://github.com/Abhi9108865162/pes_pd/assets/141741065/846cdcda-17d5-474b-b4aa-d0278316572a)
+![Screenshot from 2023-09-18 12-58-30](https://github.com/Abhi9108865162/pes_pd/assets/141741065/56d5d21b-219c-4de3-8493-b9b00f6a2829)
+
+
+
+
+
+
+
+
+
 
 
 - ### Lab steps to configure OpenSTA for post-synth timing analysis 
