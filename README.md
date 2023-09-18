@@ -842,8 +842,19 @@
 
 ## 1. Routing and design rule check (DRC)
 - ### Introduction to Maze Routing Â LeeÂs algorithm
+
+![Screenshot from 2023-09-18 22-12-34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/966c8a39-41aa-4584-9fa9-f71fb3ebb0aa)
+![Screenshot from 2023-09-18 22-13-41](https://github.com/Abhi9108865162/pes_pd/assets/141741065/485414c4-e059-4a36-863a-96987ffd7555)
+![Screenshot from 2023-09-18 22-15-22](https://github.com/Abhi9108865162/pes_pd/assets/141741065/82115f94-3efc-4f39-b68a-f5fba5b7e7fd)
+![Screenshot from 2023-09-18 22-16-00](https://github.com/Abhi9108865162/pes_pd/assets/141741065/2c6e470f-6451-457f-9115-a31bd94ed035)
+![Screenshot from 2023-09-18 22-19-57](https://github.com/Abhi9108865162/pes_pd/assets/141741065/28428227-d33d-4d1f-ac91-64915ba72389)
+
   
 - ### LeeÂs Algorithm conclusion
+
+
+
+
 
 - ### Design Rule Check
   
