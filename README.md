@@ -759,6 +759,21 @@
 3. Clock tree synthesis TritonCTS and signal integrity
 - ### Clock tree routing and buffering using H-Tree algorithm
 
+![Screenshot from 2023-09-18 17-10-04](https://github.com/Abhi9108865162/pes_pd/assets/141741065/2e86dde4-0b98-45cf-a4bf-192e26bdf045)
+![Screenshot from 2023-09-18 17-10-34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/54ef1519-c2ae-4044-9977-f8d78e76fe2d)
+![Screenshot from 2023-09-18 17-14-32](https://github.com/Abhi9108865162/pes_pd/assets/141741065/d2e8a657-c7e6-4d1f-b3a6-e2dbb17d0dcd)
+![Screenshot from 2023-09-18 17-14-51](https://github.com/Abhi9108865162/pes_pd/assets/141741065/ac1d451c-c47d-4c81-9d96-278e0b8b66b9)
+![Screenshot from 2023-09-18 17-15-17](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bff81204-29d7-461c-bd57-f5950bacb9eb)
+![Screenshot from 2023-09-18 17-16-32](https://github.com/Abhi9108865162/pes_pd/assets/141741065/5e9c4b77-d153-4cdb-ac93-a77bc107898f)
+![Screenshot from 2023-09-18 17-19-30](https://github.com/Abhi9108865162/pes_pd/assets/141741065/6c0d1e32-913c-435b-8b3d-037e1ee8f670)
+![Screenshot from 2023-09-18 17-20-24](https://github.com/Abhi9108865162/pes_pd/assets/141741065/be265dec-e7d0-4eb7-9f38-297804b628cc)
+![Screenshot from 2023-09-18 17-22-34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3a2fc89f-d640-481c-b99e-cdee45885352)
+
+
+
+
+
+
 - ### Crosstalk and clock net shielding
 
 - ### Lab steps to run CTS using TritonCTS
