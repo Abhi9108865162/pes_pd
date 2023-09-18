@@ -691,11 +691,38 @@
 - ### Lab steps to configure synthesis settings to fix slack and include vsdinv 
 
 
+![VirtualBox_PES_physical_design_18_09_2023_10_53_09](https://github.com/Abhi9108865162/pes_pd/assets/141741065/4a99953c-cec5-471c-95b2-d9ef06f113c4)
+![VirtualBox_PES_physical_design_18_09_2023_12_06_51](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bedbf225-57a2-480e-911e-4869fb424ce0)
+![VirtualBox_PES_physical_design_18_09_2023_11_02_01](https://github.com/Abhi9108865162/pes_pd/assets/141741065/db103bf0-c655-451d-8d15-cac82115064f)
+![VirtualBox_PES_physical_design_18_09_2023_10_57_18](https://github.com/Abhi9108865162/pes_pd/assets/141741065/027b8465-ab54-444a-a753-61eda49afa1e)
+![VirtualBox_PES_physical_design_18_09_2023_11_20_34](https://github.com/Abhi9108865162/pes_pd/assets/141741065/c24b628a-0fb8-4ae7-985b-f2f96824b61d)
+![VirtualBox_PES_physical_design_18_09_2023_11_21_28](https://github.com/Abhi9108865162/pes_pd/assets/141741065/50d78c0c-948d-4ecf-9363-255a9ef6fb18)
+![VirtualBox_PES_physical_design_18_09_2023_11_22_19](https://github.com/Abhi9108865162/pes_pd/assets/141741065/46807e6c-ee82-4980-86a6-f754a3037e24)
+![VirtualBox_PES_physical_design_18_09_2023_11_29_14](https://github.com/Abhi9108865162/pes_pd/assets/141741065/d85b0f16-2c44-425e-9bfe-44da49be092b)
+![VirtualBox_PES_physical_design_18_09_2023_11_31_15](https://github.com/Abhi9108865162/pes_pd/assets/141741065/9d827b59-c834-45c7-9cc9-22c800295bbf)
+![VirtualBox_PES_physical_design_18_09_2023_11_31_42](https://github.com/Abhi9108865162/pes_pd/assets/141741065/b340ec6a-82d7-4408-aa59-49db6dc038eb)
+![VirtualBox_PES_physical_design_18_09_2023_11_37_21](https://github.com/Abhi9108865162/pes_pd/assets/141741065/76c34948-20e2-44e7-be09-061a0cf49cfa)
+![VirtualBox_PES_physical_design_18_09_2023_12_09_59](https://github.com/Abhi9108865162/pes_pd/assets/141741065/5dcf27d8-9492-4d5c-b0f7-72b17c96a6c5)
+![Screenshot from 2023-09-18 11-53-32](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8b1c598b-cf52-4e1d-9444-63f6aee89ff1)
+![Screenshot from 2023-09-18 11-53-43](https://github.com/Abhi9108865162/pes_pd/assets/141741065/572a241c-d300-4bf3-8f78-74eb379fa300)
+
+
 
 
 ## 2. Timing analysis with ideal clocks using openSTA
 
 - ### Setup timing analysis and introduction to flip-flop setup time 
+
+
+
+
+
+
+
+
+
+
+
 
 
 - ### Introduction to clock jitter and uncertainty
