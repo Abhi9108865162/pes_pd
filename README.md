@@ -735,16 +735,11 @@
 
 - ### Lab steps to configure OpenSTA for post-synth timing analysis 
 
-
-
-
-
-
-
-
-
-
-
+![VirtualBox_PES_physical_design_18_09_2023_16_24_40](https://github.com/Abhi9108865162/pes_pd/assets/141741065/34d9a2c7-a728-4bbb-ad76-2b1ff9449807)
+![VirtualBox_PES_physical_design_18_09_2023_22_06_02](https://github.com/Abhi9108865162/pes_pd/assets/141741065/517a238f-80d0-4cb1-ad65-64d51ccd4a0f)
+![VirtualBox_PES_physical_design_18_09_2023_22_05_48](https://github.com/Abhi9108865162/pes_pd/assets/141741065/4fce1c1e-240d-4df4-aa6e-455420041efb)
+![VirtualBox_PES_physical_design_18_09_2023_22_03_20](https://github.com/Abhi9108865162/pes_pd/assets/141741065/0d444a5e-7790-4e9e-9567-5e0c735bb52e)
+![VirtualBox_PES_physical_design_18_09_2023_22_03_28](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bf4f95ae-2e01-4719-93be-9833bd4fe970)
 
 
 - ### Lab steps to optimize synthesis to reduce setup violations
