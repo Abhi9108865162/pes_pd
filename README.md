@@ -792,9 +792,37 @@
 - ### Lab steps to verify CTS runs 
 
 ## 4. Timing analysis with real clocks using openSTA 
+
 - ### Setup timing analysis using real clocks
 
+
+![Screenshot from 2023-09-18 17-53-16](https://github.com/Abhi9108865162/pes_pd/assets/141741065/59dc9d18-3367-4ad9-8704-6e4a7ea35d69)
+![Screenshot from 2023-09-18 17-53-28](https://github.com/Abhi9108865162/pes_pd/assets/141741065/28bd3e95-9f76-476e-933c-b6cb9092e6e0)
+![Screenshot from 2023-09-18 19-47-54](https://github.com/Abhi9108865162/pes_pd/assets/141741065/fc8959ff-6734-4f2b-b880-5a84a2672505)
+![Screenshot from 2023-09-18 20-01-05](https://github.com/Abhi9108865162/pes_pd/assets/141741065/70cb82c0-448d-4095-9c6c-216694a65238)
+![Screenshot from 2023-09-18 20-04-02](https://github.com/Abhi9108865162/pes_pd/assets/141741065/b9a15824-ce17-456b-a219-b4cda9b9b6b2)
+![Screenshot from 2023-09-18 20-04-26](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8fd00394-c220-4112-8ca1-b4fe80712bc8)
+![Screenshot from 2023-09-18 20-05-41](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8087a1a3-64a9-4ee6-a291-d4984fe87b1a)
+![Screenshot from 2023-09-18 20-10-33](https://github.com/Abhi9108865162/pes_pd/assets/141741065/0bd503eb-542c-4077-8b1d-b814795b2d26)
+![Screenshot from 2023-09-18 20-11-06](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3869ea53-b9b9-4e47-a81e-eaf7a9eddcba)
+![Screenshot from 2023-09-18 20-13-29](https://github.com/Abhi9108865162/pes_pd/assets/141741065/7340950f-1761-4434-a91b-c2becb457d6d)
+![Screenshot from 2023-09-18 20-13-24](https://github.com/Abhi9108865162/pes_pd/assets/141741065/83a39c10-8b41-4249-99fb-530bf8f8e39d)
+
+
+
+
+
+
+
+
 - ### Hold timing analysis using real clocks 
+
+
+
+
+
+
+
 
 - ### Lab steps to analyze timing with real clocks using OpenSTA
 
