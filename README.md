@@ -713,6 +713,12 @@
 
 - ### Setup timing analysis and introduction to flip-flop setup time 
 
+![Screenshot from 2023-09-18 12-20-51](https://github.com/Abhi9108865162/pes_pd/assets/141741065/9610d2f2-5fb0-4f64-85ca-f39563fcea8b)
+![Screenshot from 2023-09-18 12-30-03](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3bb22ade-1463-42b0-aa19-5464ea941982)
+![Screenshot from 2023-09-18 12-33-10](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f49cebc8-665d-4b2d-8bdd-844887f83efb)
+![Screenshot from 2023-09-18 12-34-47](https://github.com/Abhi9108865162/pes_pd/assets/141741065/32d32145-7590-411f-839d-2411a5ac8739)
+![Screenshot from 2023-09-18 12-35-38](https://github.com/Abhi9108865162/pes_pd/assets/141741065/7a2898a4-bce3-43ff-82f0-5beeb64fd213)
+![Screenshot from 2023-09-18 12-35-50](https://github.com/Abhi9108865162/pes_pd/assets/141741065/6842645f-92f4-446e-9a68-1bd34d739255)
 
 
 
