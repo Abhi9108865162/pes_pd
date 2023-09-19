@@ -558,6 +558,19 @@ blue - metal<br>
 
 
 
+To run the spice netlist, run ```ngspice sky130_inv.spice``` and ```plot y vs time a```
+![Screenshot from 2023-09-19 19-49-44](https://github.com/Abhi9108865162/pes_pd/assets/141741065/755d69b2-c15a-4bf1-895b-a00b01bade12)
+
+
+![Screenshot from 2023-09-19 19-49-18](https://github.com/Abhi9108865162/pes_pd/assets/141741065/4b595dcd-5867-47bc-89db-8ca6601fb5d0)
+
+The results obtained from the graph are :
+- Rise Transition : 0.0395ns
+- Fall transition : 0.0282ns
+- Cell Rise delay : 0.03598ns
+- Cell fall delay : 0.0483ns
+
+
 
 
 </details>
