@@ -893,11 +893,38 @@
 
   
 ## 2. Power Distribution Network and routing
-- ### Lab steps to build power distribution network
+```
+cd ~/Desktop/work/tools/openlane_working_dir/openlane
+```
+```
+docker
+```
+```
+./flow.tcl -interactive
+```
+```
+package require openlane 0.9
+```
+```
+prep -design picorv32a -tag 16-09_17-39
+```
+```
+echo $::env(CURRENT_DEF)
+```
+```
+gen_pdn
+```
+<image10>
+green color reg - picorv32<br>
 
-- ### Lab steps from power straps to std cell power 
+red - vdd<br>
+blue - gnd<br>
 
-- ### Basics of global and detail routing and configure TritonRoute 
+Global routing in chip design is the initial stage that establishes a high-level plan for connecting components on an integrated circuit. It addresses wirelength, congestion, and power considerations.
+
+Detailed routing follows, refining connections, ensuring manufacturability, and completing the chip's interconnections. Both stages are crucial for chip functionality and performance.
+
+
 ## 3. TritonRoute Features
 - ### TritonRoute feature 1 - Honors pre-processed route guides
    
