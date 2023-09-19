@@ -914,6 +914,9 @@ echo $::env(CURRENT_DEF)
 ```
 gen_pdn
 ```
+```
+run_routing
+```
 <image10>
 green color reg - picorv32<br>
 
@@ -926,15 +929,25 @@ Detailed routing follows, refining connections, ensuring manufacturability, and 
 
 
 ## 3. TritonRoute Features
-- ### TritonRoute feature 1 - Honors pre-processed route guides
-   
-- ### TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing
-   
-- ### TritonRoute method to handle connectivity 
-   
-- ### Routing topology algorithm and final files list post-route
-    
-   
+
+Routing Requirements forr Preprocessed Guides:
+1 Should have unit width.
+2 Should be on the preferred direction.
+
+TritonRoute
+1 Inputs : .lef, .def, processed route guides
+2 Outputs : Detailed routing solution with optimised ire length and via count.
+3 Constraints : Route guides, connectivity constraints and design rules.
+
+4 Access Point : on-grid point on the metl layer of the route guide, and is used to connect to lower layer, upper layer segments, pins and ports.
+5 Access Point Cluster : A union of all APs derived from everything.
+![Screenshot from 2023-09-19 18-31-19](https://github.com/Abhi9108865162/pes_pd/assets/141741065/b2385789-8a5a-4061-95f7-c7ce843bb565)
+![Screenshot from 2023-09-19 18-31-35](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8c5c88f7-b840-4db2-8b5d-c703687c4e63)
+![Screenshot from 2023-09-19 18-31-48](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f7419ebf-59c4-4265-a2fe-28c010aaee45)
+![Screenshot from 2023-09-19 18-32-03](https://github.com/Abhi9108865162/pes_pd/assets/141741065/6ef1f161-ed54-4b43-8939-5605bea96117)
+![Screenshot from 2023-09-19 18-32-16](https://github.com/Abhi9108865162/pes_pd/assets/141741065/5da0bc85-bb11-4d7d-83c5-82f977dc3f15)
+![Screenshot from 2023-09-19 18-32-35](https://github.com/Abhi9108865162/pes_pd/assets/141741065/bfb7b1fa-9065-43f3-a34d-1c5e7ad33220)
+![Screenshot from 2023-09-19 18-32-44](https://github.com/Abhi9108865162/pes_pd/assets/141741065/97674567-29f7-47c4-8cea-4f21a78ceba3)
 
 
 
