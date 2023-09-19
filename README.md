@@ -1,5 +1,3 @@
-![Screenshot from 2023-09-18 22-41-52](https://github.com/Abhi9108865162/pes_pd/assets/141741065/fbcff013-db0d-4ad9-b89c-707129aaf4c6)
-
 <details>
     
 <summary> WEEK-3 -> Day - 1 </summary>
