@@ -513,9 +513,8 @@
 ![Screenshot from 2023-09-17 20-51-04](https://github.com/Abhi9108865162/pes_pd/assets/141741065/001bcdca-cca3-427e-9f99-76f26fa24346)
 
    
-  
+  ## Lab introduction to sky130 basic layers layout  LEF using inverter
 
-## 3. Sky130 Tech File Labs
 ![VirtualBox_PES_physical_design_17_09_2023_13_15_06](https://github.com/Abhi9108865162/pes_pd/assets/141741065/55c587c6-8d80-4c4b-920b-5804da632823)
 ![VirtualBox_PES_physical_design_17_09_2023_13_17_45](https://github.com/Abhi9108865162/pes_pd/assets/141741065/cd32fbe9-0483-48bf-a2ee-522b682a1ab2)
 
@@ -538,6 +537,7 @@ blue - metal<br>
 ![VirtualBox_PES_physical_design_17_09_2023_20_01_54](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f99ddf5e-deee-49ad-87ef-931209f55ba5)
 
 - LEF is on the right it contains the meatal connection(pr boundaries and ports)
+  
 ![Screenshot from 2023-09-19 18-58-41](https://github.com/Abhi9108865162/pes_pd/assets/141741065/9351cf0d-dcce-40b0-96d9-3fa3f72616b3)
 
 ![VirtualBox_PES_physical_design_17_09_2023_22_42_41](https://github.com/Abhi9108865162/pes_pd/assets/141741065/da85d5a7-c3c5-4a5a-adef-1b2055dcb2a4)
@@ -555,131 +555,6 @@ blue - metal<br>
 ![VirtualBox_PES_physical_design_17_09_2023_23_42_54](https://github.com/Abhi9108865162/pes_pd/assets/141741065/1d9339cf-5a76-444a-a2f7-b98c6f5530f0)
 ![VirtualBox_PES_physical_design_17_09_2023_23_59_27](https://github.com/Abhi9108865162/pes_pd/assets/141741065/45d476ea-638f-438a-bcee-a816632962b4)
 ![VirtualBox_PES_physical_design_17_09_2023_23_59_12](https://github.com/Abhi9108865162/pes_pd/assets/141741065/f44465ef-ad9d-4bf8-9078-a1184bb35b1e)
-
-
-
-
-## Lab steps to create std cell layout and extract spice netlist
-
-
-
-
-
-
-For a detailed procedure, on how to crete a standard cell visit hhtps://github.com/nickson-jose/vsdstdcelldesign<br>
-
-Extracting infromation into spice<br>
-In magic terminal<br>
-```
-extact all
-```
-
-
-## Sky130 Tech file Labs
-
-![image73dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/71fcfb5d-812c-4ef2-8f1f-cff3c502b733)
-
-![image74dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/76baddcc-e04a-4696-81e9-5a4c17cea8fe)
-
-![image75dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/ce0f59a2-7055-41ca-ad95-d0d0806083f6)
-
-
-![image76dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/77e32990-2aca-46f3-bba4-319c74b8e722)
-
-rise time = 80% of rise - 20% of rise = (2.8906 - 2.6491)*1E-9<br>
-![image77dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/b1b1c976-6f54-4fa7-94af-52087b6e54f2)
-
-fall time = 20% of fall - 80% of fall = (0.02664)*1E-9<br>
-![image78dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/d395e964-4b42-48a5-bb87-fabfeb42d309)
-
-Cell rise delay = 50% of output - 50% of input = (0.005324)*1E-9<br>
-![image79ell](https://github.com/vamsi-2312/pes_pd/assets/142248038/97bf1eee-0f95-46a0-b231-ad9f76d159af)
-
-Cell fall delay = 50% of output - 50% of input = (0.07542)*1E-9<br>
-
-Later, we are going to use layout and create LEF file.<br>
-
-**Magic DRC**<br>
-we can refer to this webpage opencircuitdesign.com/magic/<br>
-CIF Ouput Section<br>
-![image80dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/f685e304-74cb-41a8-907e-ffde8886cc6b)
-
-![image80idell](https://github.com/vamsi-2312/pes_pd/assets/142248038/3b77c0a2-3d09-4206-96fb-a401a86f5ab9)
-
-DRC Section<br>
-![image81dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/cba3aed0-b76e-4610-878a-7c026be4d779)
-
-
-Basic DRC rules are Edge based rules.<br>
-There are rules that are not edge based such as area,etc.<br>
-
-We are using Google's Skywater 130nm technology.<br>
-https://www.skywatertechnology.com/technology-and-design-enablement/<br>
-Documentation in github.<br>
-https://github.com/google/skywater-pdk<br>
-
-To downoad the examples and .tech file<br>
-search this is google, it will download automatically<br>
-```
-opencircuitdesign.com/open_pdks/archive/drc_tests.tdz
-```
-
-in terminal, to launch magic<br>
-```
-magic
-```
-Open met3.mag file<br>
-we can move to console from layout window by pressing colon.<br>
-to find out what the drc error is, in console type<br>
-```
-drc why
-```
-![image82dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/47179920-4417-46fb-8860-eee8e8f6719c)
-
-![image83dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/6c4fb692-06e5-4ff5-88f7-9a0f0e806439)
-
-
-select an area, to see the contacts<br>
-```
-cif see VIA2
-```
-![image84](https://github.com/vamsi-2312/pes_pd/assets/142248038/5eedad68-793b-4169-940c-6c32a5996732)
-
-to see the dimensions of any area, select it.<br>
-then type `box` in console.<br>
-to perform drc<br>
-```
-drc check
-``` 
-![image85dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/fdaac6be-005c-4725-9ee9-3af4f85106c2)
-
-![image86dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/15de9d91-13df-4bfb-8fce-b1eb2fa94a50)
-
-![image87dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/c891b0f0-e67d-4ce5-9eae-e8aed65d0a27)
-
-updating the new .tech file<br>
-![image88dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/10d9c461-3318-43ae-b249-357608753fcb)
-
-![image89dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/faa0c356-6396-4170-9dce-9dbd89e79222)
-
-![image90dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/5528f20b-50c5-4bb4-8f83-14756edf0960)
-
-we can see that the resistor drc error are fixed.<br>
-
-![image91dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/b234d39e-3277-4fd0-a049-4fb14a68b029)
-
-![image92dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/47c83b4f-73c6-4ff6-8218-1ef78160916a)
-
-![image93dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/0651de48-ed44-49fb-8d41-7ebe1dfd70e1)
-
-![image94dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/0d807a0d-285d-4440-b14d-6a1edc930cda)
-
-![image95dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/bcb28412-16d3-42e5-875d-aeee9caacda4)
-
-![image96dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/147fba26-8d98-406a-8eb7-0d4d0f294598)
-the drc has been resolved after putting anthor layer<br>
-
-![image97dell](https://github.com/vamsi-2312/pes_pd/assets/142248038/97003267-9e06-43e6-886b-c100f3483f30)
 
 
 
