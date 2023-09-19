@@ -820,16 +820,82 @@
 ![Screenshot from 2023-09-18 21-49-48](https://github.com/Abhi9108865162/pes_pd/assets/141741065/3f2ab4de-2686-45b3-a129-ca53016c0207)
 
 
+## Lab 
+start openlane<br>
+```
+docker
+```
+```
+./flow.tcl -interactive
+```
+```
+package require openlane 0.9
+```
+```
+prep -design picorv32a -tag 16-09_17-39 -overwrite
+```
+```
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+ 
+add_lefs -src $lefs
+```
+```
+run_synthesis
+```
+```
+init_floorplan
+```
+```
+run_placement
+```
+```
+run_cts
+```
+
+```
+openroad
+```
+
+reading the .lef file<br>
+```
+read_lef /openLANE_flow/designs/picorv32a/runs/16-09_17-39/tmp/merged.lef
+```
+
+reading the .def file<br>
+
+```
+read_def /openLANE_flow/designs/picorv32a/runs/16-09_17-39/results/cts/picorv32a.cts.def
+```
+
+```
+write_db pico_cts.db
+```
+```
+read_db pico_cts.db
+```
+```
+read_verilog /openLANE_flow/designs/picorv32a/runs/16-09_17-39/results/synthesis/picorv32a.synthesis_cts.v
+```
 
 
-- ### Lab steps to analyze timing with real clocks using OpenSTA
+```
+read_liberty -max $::env(LIB_SLOWEST)
+```
+```
+read_liberty -max $::env(LIB_FASTEST)
+```
 
-- ### Lab steps to execute OpenSTA with right timing libraries and CTS assignment 
+```
+read_sdc /openLANE_flow/designs/picorv32a/src/my_base.sdc
+```
 
-- ### Lab steps to observe impact of bigger CTS buffers on setup and hold timing
 
-
-
+```
+set_propagated_clock [all_clocks]
+```
+```
+report_checks -path_delay min_max -format full_clock_expanded -digits 4
+```
 </details>
 
 
