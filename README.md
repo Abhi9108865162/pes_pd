@@ -1066,7 +1066,9 @@ Delay tables, commonly used in digital circuit design, provide information about
 ![VirtualBox_PES_physical_design_18_09_2023_12_09_59](https://github.com/Abhi9108865162/pes_pd/assets/141741065/5dcf27d8-9492-4d5c-b0f7-72b17c96a6c5)
 ![Screenshot from 2023-09-18 11-53-32](https://github.com/Abhi9108865162/pes_pd/assets/141741065/8b1c598b-cf52-4e1d-9444-63f6aee89ff1)
 ![Screenshot from 2023-09-18 11-53-43](https://github.com/Abhi9108865162/pes_pd/assets/141741065/572a241c-d300-4bf3-8f78-74eb379fa300)
+![Screenshot from 2023-09-21 21-32-06](https://github.com/Abhi9108865162/pes_pd/assets/141741065/89cba032-20fd-4dc1-94f3-72339378d963)
 
+![Screenshot from 2023-09-21 21-26-23](https://github.com/Abhi9108865162/pes_pd/assets/141741065/dec5d902-b923-43a4-8918-cdc19652afdd)
 
 
 
